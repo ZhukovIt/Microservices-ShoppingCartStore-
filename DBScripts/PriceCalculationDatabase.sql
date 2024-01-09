@@ -1,0 +1,8 @@
+CREATE DATABASE [PriceCalculation]
+GO
+USE [PriceCalculation]
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
